@@ -1,0 +1,9 @@
+ch='a'
+print(ord(ch))
+ch='A'
+print(ord(ch))
+print(chr(97))
+ch=']'
+print(ord(ch))
+ch='@'
+print(ord(ch))
